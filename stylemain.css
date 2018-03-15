@@ -301,9 +301,6 @@ abbr[title]{cursor: pointer;border-bottom: none}
 .nav>li>a:hover, .nav>li>a:focus {background-color: none}
 .nav>li>a {font-size: 17px}
 /* End Taps */
-/* Start article */
-.post-body{line-height: 1.8;font-size: 17px;color: #353b48}
-/* End article */
 /* Start Footer */
 .footer{background-color: #353b48;padding-top: 20px;padding-bottom: 25px}
 .footer .footer-brand h3{font-family: 'Cairo', sans-serif;color: #FFF;font-size: 27px;font-weight: bold;margin-bottom: 25px;}
